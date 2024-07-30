@@ -3,9 +3,9 @@
 Welcome to the Hotel Network Client repository! This project serves as the frontend for a global hotel network website, providing a user-friendly interface for browsing and booking hotels.
 
 # Photos from the app
-[1](https://drive.google.com/uc?export=view&id=1FqEqi_1gQdPEClYYXyf5fWieOrJhCf-N)
-[App Screenshot](https://drive.google.com/file/d/1FqEqi_1gQdPEClYYXyf5fWieOrJhCf-N/view?usp=drive_link))
-[App Screenshot](https://drive.google.com/uc?export=view&id=1MGr3Y3JfggO358bd5gm9IBQ1JdWip0TM))
+-[App Screenshot 1](https://drive.google.com/uc?export=view&id=1FqEqi_1gQdPEClYYXyf5fWieOrJhCf-N)
+-[App Screenshot 2](https://drive.google.com/file/d/1FqEqi_1gQdPEClYYXyf5fWieOrJhCf-N/view?usp=drive_link)
+-[App Screenshot 3](https://drive.google.com/uc?export=view&id=1MGr3Y3JfggO358bd5gm9IBQ1JdWip0TM)
 
 ## Table of Contents
 
